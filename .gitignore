@@ -1,4 +1,10 @@
-.DS_Store
+octofit-tracker/backend/venv/
+__pycache__/
+*.pyc
+.vscode/
+.env
+node_modules/
+dist/.DS_Store
 
 # Virtual Environment
 venv
